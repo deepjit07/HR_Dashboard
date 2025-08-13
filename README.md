@@ -1,11 +1,11 @@
-# 📊 HR Dashboard – Power BI
+#  HR Dashboard – Power BI
 
 An interactive **HR Analytics Dashboard** built in **Power BI** to provide insights into employee data, attrition trends, demographics, and performance metrics.  
 Designed to help HR teams make **data-driven decisions** with clear, actionable visualizations.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 - **Employee Overview** – Track headcount, attrition, and demographics.
 - **Attrition Analysis** – Identify patterns by age, department, and job role.
 - **Performance Metrics** – Evaluate employee performance over time.
@@ -20,13 +20,13 @@ Designed to help HR teams make **data-driven decisions** with clear, actionable 
 ---
 
 ## 📸 Dashboard Previews
-| Overview | Attrition | Demographics |
+| Human Resources | Research & Development | Sales |
 |----------|-----------|--------------|
 | ![Overview](https://github.com/deepjit07/HR_Dashboard/blob/main/Images/Screenshot%20(66).png) | ![Attrition](https://github.com/deepjit07/HR_Dashboard/blob/main/Images/Screenshot%20(67).png) | ![Demographics](https://github.com/deepjit07/HR_Dashboard/blob/main/Images/Screenshot%20(68).png) |
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Power BI** – Data visualization
 - **Excel** – Data cleaning & preparation
 - **DAX** – Custom measures & calculations
@@ -34,11 +34,8 @@ Designed to help HR teams make **data-driven decisions** with clear, actionable 
 ---
 
 
----
-
 ## 📈 Insights from the Dashboard
 - Highest attrition observed in employees aged **25–35 years**.
-- **R&D** and **Sales** departments show the highest turnover.
 - Gender ratio skewed towards **male employees**.
 - Employees with **lower job satisfaction** are more likely to leave.
 
@@ -46,11 +43,9 @@ Designed to help HR teams make **data-driven decisions** with clear, actionable 
 
 ## 📬 Contact
 **Deepjit Ganguly**  
-📧 [Email Me](mailto:your-email@example.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepjit-ganguly/)  
+📧 [Email Me](deepjitganguly@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepjit-ganguly-273423243/)  
 
 ---
 💡 *If you find this project useful, don’t forget to ⭐ star the repository!*
 
-
-## 📂 Repository Structure
